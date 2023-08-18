@@ -4,6 +4,7 @@ AIM:
 
        i) To write a program to search for an element in an array.
        ii) To write a program to declare a matrix in an array and print. 
+       iii) To write a program to add a matrix using array. 
 
 THEORY:  In C++, an array is a collection of elements of the same data type stored in contiguous memory locations.
          Each element in the array can be accessed using an index, which starts from 0 for the first element and goes up to the size of the array minus one.
@@ -33,7 +34,7 @@ ALGORITHM:
             12. End
 
 CONCLUSION: An element in the array is searched and the program is executed successfully.
-A matrix is printed using array. 
+A matrix is printed using array. Two matrices are added using an array. 
 
 
             
